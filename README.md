@@ -5,12 +5,12 @@ I’m a second-year IT student at the Polish-Japanese Academy of Information Tec
 
 I enjoy programming — it's incredibly rewarding to see something you've built actually working, especially when it's made for someone else. While I’m particularly interested in Java, I’m always open to working with other languages as well. I'm passionate about solving problems and excited to gain real-world experience
 
-## 📚Projects
+## 📚 Projects
 ### [Hoidle](https://github.com/Sekanko/Hoidle)
-**🧑‍💻Description:**  
+**🧑‍💻 Description:**  
 My own project that is still under development. Current version contains only "classic mode". More inforamtion in Hoidle's README 📖
 
-**🎯Goals:**  
+**🎯 Goals:**  
 - Practise Java, Spring boot and database managment
 - Learn JavaScript
 - Build web game I've always wanted to exist
@@ -23,10 +23,10 @@ My own project that is still under development. Current version contains only "c
 ---
 
 ### [Project MPR](https://github.com/Sekanko/Projekt_MPR)
-**🧑‍💻Description:**    
+**🧑‍💻 Description:**    
 This project was part of the "Programming Methods" class during the third semester.
 
-**🎯Goals:**  
+**🎯 Goals:**  
 - Learn Gradle (mostly Gradle)
 - Learn Spring Boot
 - Learn REST API
