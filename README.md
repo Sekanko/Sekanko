@@ -44,7 +44,7 @@ This project was part of the "Programming Methods" class during the third semest
 This project was part of the "Advanced Java" class during the third semester.
 
 **🎯 Goals:**  
-- Practice Java, Gradle, Spring Boot, REST API, and other technologies from the "Project MPR"
+- Practice Java, Gradle, Spring Boot, REST API, and other related technologies 
 - Learn how to fetch data from external APIs
 - Understand the structure and configuration of multi-module projects
 
