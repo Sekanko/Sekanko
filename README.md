@@ -11,7 +11,7 @@ I enjoy programming — it's incredibly rewarding to see something you've built 
 My own project that is still under development. Current version contains only "classic mode". More inforamtion in Hoidle's README 📖
 
 **🎯 Goals:**  
-- Practise Java, Spring boot and database managment
+- Practise Java, Spring Boot and database managment
 - Learn JavaScript
 - Build web game I've always wanted to exist
 
