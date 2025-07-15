@@ -1,14 +1,14 @@
 # Hi there 👋  
 
 ## My name is Oskar Tarka  
-I’m a second-year IT student at the Polish-Japanese Academy of Information Technology.
+I’m a third-year CS student at the Polish-Japanese Academy of Information Technology.
 
 I enjoy programming — it's incredibly rewarding to see something you've built actually working, especially when it's made for someone else. While I’m particularly interested in Java, I’m always open to working with other languages as well. I'm passionate about solving problems and excited to gain real-world experience
 
 ## 📚 Projects
 ### [Hoidle](https://github.com/Sekanko/Hoidle)
 **🧑‍💻 Description:**  
-My own project that is still under development. Current version contains only "classic mode". More inforamtion in Hoidle's README 📖
+It's a game where you guess the country from Heats of Iron 4 based on information from previous guesses
 
 **🎯 Goals:**  
 - Practise Java, Spring Boot and database managment
@@ -27,7 +27,7 @@ My own project that is still under development. Current version contains only "c
 This project was part of the "Programming Methods" class during the third semester.
 
 **🎯 Goals:**  
-- Learn Gradle (mostly Gradle)
+- Learn Gradle
 - Learn Spring Boot
 - Learn REST API
 - Learn Unit Testing
